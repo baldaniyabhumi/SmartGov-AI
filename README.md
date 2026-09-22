@@ -3,7 +3,7 @@
 This project was developed collaboratively with [Trisha](https://github.com/trishahingu).
 
 Original Repository:
-(https://github.com/trishahingu/SmartGov-AI)
+[View Original Repository](https://github.com/trishahingu/SmartGov-AI)
 # 🏛️ SmartGov AI
 
 > AI-Powered Government Document Verification System
